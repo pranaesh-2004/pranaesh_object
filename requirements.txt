@@ -1,0 +1,7 @@
+streamlit
+opencv-python==4.5.5.64
+torch
+torchvision
+Pillow
+numpy
+ultralytics
